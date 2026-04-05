@@ -73,7 +73,9 @@ Cloud     →  Azure · serverless · edge deployment · distributed architectur
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=txs31&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=00ff88&icon_color=ff0040&text_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=txs31&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=ff0040&text_color=ffffff&ring_color=ff0040)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=txs31&hide_border=true&background=000000&stroke=00ff88&ring=ff0040&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888)
 
 *"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect."*
 **— Marcus Aurelius**
