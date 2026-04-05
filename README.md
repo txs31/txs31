@@ -44,8 +44,3 @@ Cloud & Edge: Azure · serverless architecture · edge deployment patterns
 
 > *"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect."*  
 > Marcus Aurelius
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=txs31&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
